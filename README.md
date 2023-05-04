@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # Abhishek Jangid - Resume
-
-![Profile Image](abhishek.jpeg)
+<img src="abhishek.jpeg" alt="Profile Image" width="200" height="200">
+<!-- ![Profile Image](abhishek.jpeg) -->
 
 **Contact:**  
 Phone: +91-9166391374  
