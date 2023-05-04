@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Phone: +91-9166391374  
 Email: 1999abhishekjangid@gmail.com  
 LinkedIn: [Abhishek Jangid](https://www.linkedin.com/in/abhi5hekjangid)  
-GeeksforGeeks: [Abhishek Jangid](https://auth.geeksforgeeks.org/user/abhishekjangid)
+GeeksforGeeks: [Abhishek Jangid](https://auth.geeksforgeeks.org/user/stormxflash))
 LeetCode: [Abhishek Jangid](https://leetcode.com/abhi5hekjangid)  
 GitHub: [Abhishek Jangid](https://github.com/abhi5hekjangid)
 
