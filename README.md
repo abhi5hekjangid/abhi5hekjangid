@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Abhishek Jangid - Resume
+# Abhishek Jangid
 <img src="abhishek.jpeg" alt="Profile Image" width="200" height="200">
 <!-- ![Profile Image](abhishek.jpeg) -->
 
