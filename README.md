@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Abhishek Jangid - Resume
 
-![Profile Image](profile_image.jpg)
+![Profile Image](abhishek.jpg)
 
 **Contact:**  
 Phone: +91-9166391374  
